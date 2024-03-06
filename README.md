@@ -1,5 +1,5 @@
-# BetterIG
-Project BetterIG: Free scripts make your web Instagram look better.
+# Project BetterIG
+BetterIG: Free open-source scripts that make your web Instagram look way better.
 
 ## Script 1: Favorite Users List
 ### NOTE: You'll need to install [Tampermonkey](https://www.tampermonkey.net/) on your web browser.
